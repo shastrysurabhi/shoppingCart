@@ -1,0 +1,17 @@
+.itemClass {
+  cursor:pointer;
+}
+
+.productList {
+  width: 960px;
+  margin-left: 100px;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+h4 {
+  margin-left: 400px;
+}
